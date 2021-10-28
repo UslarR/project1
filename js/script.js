@@ -33,7 +33,7 @@
             toggleClass: 'active',
             start: 'top 90%',
             end: 'top 20%',
-            markers: true
+            //markers: true
         })
     })
 
@@ -44,6 +44,6 @@
             toggleClass: 'active',
             start: 'top 90%',
             end: 'top 20%',
-            markers: true
+            //markers: true
         })
     })
